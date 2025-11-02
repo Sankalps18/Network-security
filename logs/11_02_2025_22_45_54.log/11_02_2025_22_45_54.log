@@ -1,0 +1,8 @@
+[2025-11-02 22:45:59,236] INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-11-02 22:45:59,246] INFO - Accessing as Sankalps18
+[2025-11-02 22:46:00,155] INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Sankalps18/Network-security "HTTP/1.1 200 OK"
+[2025-11-02 22:46:00,974] INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-11-02 22:46:00,978] INFO - Initialized MLflow to track repo "Sankalps18/Network-security"
+[2025-11-02 22:46:00,979] INFO - Repository Sankalps18/Network-security initialized!
+[2025-11-02 22:47:54,011] INFO - Start data Ingestion
+[2025-11-02 22:47:54,460] INFO - Start data Ingestion

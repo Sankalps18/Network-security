@@ -1,0 +1,29 @@
+[2025-11-02 22:04:26,247] INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-11-02 22:04:26,253] INFO - Accessing as Sankalps18
+[2025-11-02 22:04:27,324] INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Sankalps18/Network-security "HTTP/1.1 200 OK"
+[2025-11-02 22:04:28,195] INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-11-02 22:04:28,199] INFO - Initialized MLflow to track repo "Sankalps18/Network-security"
+[2025-11-02 22:04:28,200] INFO - Repository Sankalps18/Network-security initialized!
+[2025-11-02 22:04:28,201] INFO - Initiate the data ingestion
+[2025-11-02 22:04:35,292] INFO - Performed train test split on the dataframe
+[2025-11-02 22:04:35,292] INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[2025-11-02 22:04:35,293] INFO - Exporting train and test file path.
+[2025-11-02 22:04:35,387] INFO - Exported train and test file path.
+[2025-11-02 22:04:35,388] INFO - Data Initiation completed
+[2025-11-02 22:04:35,393] INFO - Initiate the data ingestion
+[2025-11-02 22:04:35,514] INFO - Required number of columns:2
+[2025-11-02 22:04:35,515] INFO - Data frame has columns:31
+[2025-11-02 22:04:35,515] INFO - Required number of columns:2
+[2025-11-02 22:04:35,515] INFO - Data frame has columns:31
+[2025-11-02 22:04:35,680] INFO - Data validation completed
+[2025-11-02 22:04:35,680] INFO - Data transforation started
+[2025-11-02 22:04:35,680] INFO - Entered initiate_data_transformation method of DataTransformation class
+[2025-11-02 22:04:35,680] INFO - Starting data transformation
+[2025-11-02 22:04:35,719] INFO - Entered get_data_trnasformer_object method of Trnasformation class
+[2025-11-02 22:04:35,719] INFO - Initialise KNNImputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[2025-11-02 22:04:35,738] INFO - Entered the save_object method of MainUtils class
+[2025-11-02 22:04:35,743] INFO - Exited the save_object method of MainUtils class
+[2025-11-02 22:04:35,743] INFO - Entered the save_object method of MainUtils class
+[2025-11-02 22:04:35,749] INFO - Exited the save_object method of MainUtils class
+[2025-11-02 22:04:35,751] INFO - Data transformation completed
+[2025-11-02 22:04:35,752] INFO - Model Training stared
